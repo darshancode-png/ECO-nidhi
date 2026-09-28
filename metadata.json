@@ -1,0 +1,6 @@
+{
+  "name": "Waste2Wealth",
+  "description": "Play • Recycle • Build • Grow — Gamified circular waste management and eco-city builder platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
